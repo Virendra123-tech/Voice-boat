@@ -1,0 +1,11 @@
+text,intent
+Where is my order,order_status
+Track my order,order_status
+Cancel my order,cancel_order
+I want refund,refund
+Return my product,return
+Payment failed,payment_issue
+Change my address,update_address
+Subscription problem,subscription_issue
+Talk to support,support
+My product is damaged,complaint

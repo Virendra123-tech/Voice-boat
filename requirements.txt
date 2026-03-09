@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+openai-whisper
+torch
+transformers
+scikit-learn
+pandas
+gtts
+jiwer
+matplotlib
+python-dotenv
+numpy
+scipy
+python-multipart
